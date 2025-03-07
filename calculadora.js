@@ -8,3 +8,5 @@ const resta = num1 - num2;
 
 console.log(`La suma de ${num1} y ${num2} es: ${suma}`);
 console.log(`La resta de ${num1} y ${num2} es: ${resta}`);
+
+
